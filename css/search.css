@@ -1,0 +1,9 @@
+.searchBar {
+    left: 322px;
+    top: 64px;
+    width: 636px;
+    height: 42px;
+    opacity: 1;
+    border-radius: 24px;
+    background: rgba(204, 204, 204, 1);
+}
