@@ -1,0 +1,10 @@
+.indexBar {
+    position: relative;
+    left: 320px;
+    top: 27px;
+    width: 640.83px;
+    height: 48px;
+    opacity: 1;
+    border-radius: 24px;
+    background: rgb(204, 204, 204);
+}
